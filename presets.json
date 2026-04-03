@@ -1,0 +1,8 @@
+{
+  "default": {
+    "x": 500,
+    "y": 1500,
+    "interval": 1.0,
+    "package": "com.android.settings"
+  }
+}
