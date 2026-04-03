@@ -1,0 +1,2 @@
+# Tkinter is included with most standard Python installs on Windows.
+# No external Python packages are required for the base version.
